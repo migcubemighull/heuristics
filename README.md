@@ -21,3 +21,4 @@ To run the application use:
 
 ./migbsp platform_file.xml deployment_file.xml
 
+Webpage: http://migcubemighull.github.io/heuristics
