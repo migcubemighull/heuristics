@@ -108,6 +108,7 @@ int verify_set(char *mailbox_send, int pid)
 			break;
 		}
 	}
+	
 	for(i=PROCESSES+1; i<base+sets; i++)
 	{
 		//XBT_INFO("2-Antes %s e %s",prefix, MSG_process_get_property_value(MSG_process_from_PID(i), "prefix"));

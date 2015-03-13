@@ -1,7 +1,7 @@
 <?xml version='1.0'?>
 <!DOCTYPE platform SYSTEM "http://simgrid.gforge.inria.fr/simgrid.dtd">
 <platform version="3">
-  <!-- The master process (with some arguments) -->
+  
 	<process host="capricorne-1.lyon.grid5000.fr" function="bsp"> <prop id="manager" value="61"/> </process>
   <process host="capricorne-1.lyon.grid5000.fr" function="bsp"> <prop id="manager" value="61"/> </process>
   <process host="suno-1.sophia.grid5000.fr" function="bsp"> <prop id="manager" value="62"/> </process>

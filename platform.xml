@@ -532,8 +532,8 @@
 				symmetrical="NO">
 					<link_ctn id="link_$1dst"/>
 			</ASroute>
-
 		</AS>
+
 		<ASroute src="AS_toulouse" dst="AS_interne" gw_src="gw_toulouse" gw_dst="toulouse" symmetrical="YES">
 			<link_ctn id="link_gw_toulouse"/>
 		</ASroute>
