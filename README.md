@@ -1,4 +1,5 @@
 # Heuristics
+![Heuristics Logo](https://raw.githubusercontent.com/migcubemighull/heuristics/master/Logo.png)
 Two novel heuristics for process migration in BSP applications
 
 This git page allows to anyone to use the MigCube and MigHull heuristics presented on the paper "USING COMPUTATIONAL GEOMETRY TO IMPROVE PROCESS RESCHEDULING IN ROUND-BASED PARALLEL APPLICATIONS" (Referece pending).
@@ -22,9 +23,17 @@ To run the application use:
 ./migbsp platform_file.xml deployment_file.xml
 
 Webpage: http://migcubemighull.github.io/heuristics
-![Heuristics Logo](https://raw.githubusercontent.com/migcubemighull/heuristics/master/Logo.png)
-![MigCube Structure](https://raw.githubusercontent.com/migcubemighull/heuristics/master/imageMigHull.png)
-![MigHull Structure](https://raw.githubusercontent.com/migcubemighull/heuristics/master/imageMigCube.png)
+
+# MigCube
+The following image present the ideia of MigCube:
+![MigCube Structure](https://raw.githubusercontent.com/migcubemighull/heuristics/master/imageMigCube.png)
+
 ![MigCube Algorithm](https://raw.githubusercontent.com/migcubemighull/heuristics/master/algo_MigCube.png)
+
+
+
+![MigHull Structure](https://raw.githubusercontent.com/migcubemighull/heuristics/master/imageMigHull.png)
+
+
 ![MigHull Algorithm](https://raw.githubusercontent.com/migcubemighull/heuristics/master/algo_MigHull1.png)
 ![MigHull Algorithm](https://raw.githubusercontent.com/migcubemighull/heuristics/master/algo_MigHull2.png)
