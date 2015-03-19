@@ -26,6 +26,9 @@ Selection of candidate process for migration with MigHull: (a) Creating three pl
 The Algorithm presents the pseudocode of MigHull heuristic for selecting the candidate process for migration.
 
 ![MigHull Algorithm](https://raw.githubusercontent.com/migcubemighull/heuristics/master/algo_MigHull1.png)
+
+The Algorithm 2 is the "distance" equation used in the Algorithm 3 below.
+
 ![MigHull Algorithm](https://raw.githubusercontent.com/migcubemighull/heuristics/master/algo_MigHull2.png)
 
 # How to Use
