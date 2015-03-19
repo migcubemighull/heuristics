@@ -22,3 +22,9 @@ To run the application use:
 ./migbsp platform_file.xml deployment_file.xml
 
 Webpage: http://migcubemighull.github.io/heuristics
+![Heuristics Logo](https://raw.githubusercontent.com/migcubemighull/heuristics/master/Logo.png)
+![MigCube Structure](https://raw.githubusercontent.com/migcubemighull/heuristics/master/imageMigHull.png)
+![MigHull Structure](https://raw.githubusercontent.com/migcubemighull/heuristics/master/imageMigCube.png)
+![MigCube Algorithm](https://raw.githubusercontent.com/migcubemighull/heuristics/master/algo_MigCube.png)
+![MigHull Algorithm](https://raw.githubusercontent.com/migcubemighull/heuristics/master/algo_MigHull1.png)
+![MigHull Algorithm](https://raw.githubusercontent.com/migcubemighull/heuristics/master/algo_MigHull2.png)
